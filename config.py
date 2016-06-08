@@ -163,4 +163,8 @@ DEVICE_CONN_NO_TRIES = 2
 """List of emails to which daily reports needs to be sent"""
 report_emails = []
 
+"""Admin email id and password"""
+admin_email = ""
+admin_passwd = ""
+
 
